@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master.dia",
+    "emit-module-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master.swiftdeps"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/Colors.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/Colors~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/ContentView.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/iOSApp.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/note_detail/NoteDetailScreen.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailScreen~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/note_detail/NoteDetailViewModel.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteDetailViewModel~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/note_list/HideableSearchTextField.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/HideableSearchTextField~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/note_list/NoteItem.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteItem~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/note_list/NoteListScreen.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListScreen~partial.swiftmodule"
+  },
+  "/Users/r_murata/projects/lsmds/NoteAppKMM/iosApp/iosApp/note_list/NoteListViewModel.swift" : {
+    "const-values" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel.d",
+    "diagnostics" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel.o",
+    "llvm-bc" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel.bc",
+    "object" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel.o",
+    "swift-dependencies" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/r_murata/projects/lsmds/NoteAppKMM/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/NoteListViewModel~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,10 @@
+com.plcoding.noteappkmm.test.shared-androidTest-0 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/generated/res/resValues/androidTest/debug
+com.plcoding.noteappkmm.test.shared-androidTest-1 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/generated/res/rs/androidTest/debug
+com.plcoding.noteappkmm.test.shared-mergeDebugAndroidTestResources-2 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.plcoding.noteappkmm.test.shared-mergeDebugAndroidTestResources-3 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.plcoding.noteappkmm.test.shared-merged_res-4 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/merged_res/debugAndroidTest
+com.plcoding.noteappkmm.test.shared-packaged_res-5 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/packaged_res/debug
+com.plcoding.noteappkmm.test.shared-androidAndroidTest-6 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/src/androidAndroidTest/res
+com.plcoding.noteappkmm.test.shared-androidAndroidTestDebug-7 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/src/androidAndroidTestDebug/res
+com.plcoding.noteappkmm.test.shared-androidTest-8 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/src/androidTest/res
+com.plcoding.noteappkmm.test.shared-androidTestDebug-9 /Users/r_murata/projects/lsmds/NoteAppKMM/shared/src/androidTestDebug/res

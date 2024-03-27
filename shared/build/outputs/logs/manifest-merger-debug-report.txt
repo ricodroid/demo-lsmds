@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml:2:13-3:52
+INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml:2:13-3:52
+INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml:2:13-3:52
+	package
+		ADDED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml:3:16-49
+		INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+		INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+	xmlns:android
+		ADDED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml:2:23-81
+uses-sdk
+INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml reason: use-sdk injection requested
+INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+	android:targetSdkVersion
+		INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+		ADDED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+		INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+	android:minSdkVersion
+		INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+		ADDED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
+		INJECTED from /Users/r_murata/projects/lsmds/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4451795106104903249.xml
